@@ -1,0 +1,6 @@
+
+3456
+23445
+[English Literature, Hindi Reader, Mathematics, Environmental Studies, Intro to Computers]
+[English, Rhymes, Hindi, Basic Mathematics, Environmental Studies]
+{Student[Id=1,Name=sauvik,Class=3,Address=wer]=[English Literature, Hindi Reader, Mathematics, Environmental Studies, Intro to Computers]}

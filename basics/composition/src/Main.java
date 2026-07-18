@@ -8,7 +8,6 @@ public class Main {
 
         cylinder[]collection={c1,c2,c3};
 
-
         for (cylinder c:collection){
 
             System.out.println(c.brand+" ->"+c.l.amount);

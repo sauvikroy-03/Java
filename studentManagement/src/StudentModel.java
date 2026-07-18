@@ -20,4 +20,8 @@ public class StudentModel {
     public void setAddress(String address) {
         this.address = address;
     }
+    @Override
+    public  String toString() {
+        return "Student[Id="+Id+",Name="+name+",Class="+s_class+",Address="+address+"]";
+    }
 }
