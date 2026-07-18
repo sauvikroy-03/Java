@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/basics/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/basics/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basics/Enums/Enums.iml" filepath="$PROJECT_DIR$/basics/Enums/Enums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basics/Generics/Generics.iml" filepath="$PROJECT_DIR$/basics/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basics/Hasmap/Hasmap.iml" filepath="$PROJECT_DIR$/basics/Hasmap/Hasmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA.iml" filepath="$PROJECT_DIR$/.idea/JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basics/abstraction/abstraction.iml" filepath="$PROJECT_DIR$/basics/abstraction/abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basics/aggregation/aggregation.iml" filepath="$PROJECT_DIR$/basics/aggregation/aggregation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basics/anonymousClasses/anonymousClasses.iml" filepath="$PROJECT_DIR$/basics/anonymousClasses/anonymousClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basics/basics.iml" filepath="$PROJECT_DIR$/basics/basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basics/composition/composition.iml" filepath="$PROJECT_DIR$/basics/composition/composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basics/gettersSetters/gettersSetters.iml" filepath="$PROJECT_DIR$/basics/gettersSetters/gettersSetters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studentManagement/studentManagement.iml" filepath="$PROJECT_DIR$/studentManagement/studentManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basics/super/super.iml" filepath="$PROJECT_DIR$/basics/super/super.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basics/timertasks/timertasks.iml" filepath="$PROJECT_DIR$/basics/timertasks/timertasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basics/wrapper_classes/wrapper_classes.iml" filepath="$PROJECT_DIR$/basics/wrapper_classes/wrapper_classes.iml" />
+    </modules>
+  </component>
+</project>
