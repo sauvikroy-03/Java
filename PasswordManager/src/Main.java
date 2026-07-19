@@ -8,6 +8,7 @@ public class Main {
         DisplayOptions displayOptions=new DisplayOptions();
         ViewAllPasswords viewAllPasswords=new ViewAllPasswords();
         AddPassword addPassword=new AddPassword();
+        SearchPassword searchPassword=new SearchPassword();
         DeletePassword deletePassword=new DeletePassword();
         boolean flag=true;
 
@@ -20,6 +21,7 @@ public class Main {
                case 1->addPassword.addPassword();
                case 2->viewAllPasswords.getAllPasswords();
                case 4->deletePassword.deletePassword();
+               case  3->searchPassword.searchPassword();
                case 5->{
                    flag=false;
                }
