@@ -8,6 +8,7 @@ public class Main {
         DisplayOptions displayOptions=new DisplayOptions();
         ViewAllPasswords viewAllPasswords=new ViewAllPasswords();
         AddPassword addPassword=new AddPassword();
+        DeletePassword deletePassword=new DeletePassword();
         boolean flag=true;
 
         while(true){
@@ -18,6 +19,10 @@ public class Main {
             switch(choice){
                case 1->addPassword.addPassword();
                case 2->viewAllPasswords.getAllPasswords();
+               case 4->deletePassword.deletePassword();
+               case 5->{
+                   flag=false;
+               }
             }
         }
 

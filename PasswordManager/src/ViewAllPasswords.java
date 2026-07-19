@@ -43,12 +43,13 @@ public class ViewAllPasswords {
                 String date=rs.getString("date_modified");
 
                 String result= id+" | "+person+" | "+site+" | "+username+" | "+password+" | "+date;
+                String dash="-".repeat(result.length());
+                System.out.println(dash);
                 System.out.println(result);
 
-
-
             }
-            System.out.println("-----------------------------------------");
+
+            System.out.println("-------------------------------------------------------------");
 
 
 
